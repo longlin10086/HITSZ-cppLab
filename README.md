@@ -6,6 +6,8 @@
 
 ## Description
 
+相关实验 PPT 课件已放在 `Slider` 文件夹中
+
 ### Lab 01：简易计算器I
 
 - 主要内容：
