@@ -1,3 +1,0 @@
-D:/my_c_program/cppLab/calc_1/cmake-build-debug/CMakeFiles/calc_1.dir
-D:/my_c_program/cppLab/calc_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/my_c_program/cppLab/calc_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
